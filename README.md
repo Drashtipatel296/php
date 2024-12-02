@@ -28,6 +28,13 @@ https://github.com/user-attachments/assets/f7279eee-305d-4461-a82e-625902fcffb6
 ## API Video:
 https://github.com/user-attachments/assets/909df550-0624-4170-b477-8d7b0d24d212
 
+## User Authantication API Video
+https://github.com/user-attachments/assets/4e488944-8c9e-4966-a612-405df1cd90a8
+
+
+
+
+
 
 
 
